@@ -41,7 +41,7 @@ styles/       # Global styles
 
 ## Live Demo
 
-Deployed on Vercel: _add your live deployment link here_
+Deployed on Vercel: Yet to deploy searching for a relaible database
 
 ## Author
 
